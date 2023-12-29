@@ -6,7 +6,7 @@ pipeline {
 	  MULE_VERSION = '4.4.0'
 	  BG = "Vanshiv"
 	  WORKER = "Micro"
-	  M2SETTINGS = "C:\\Windows\\system32\\config\systemprofile\\.m2\\settings.xml"
+	  M2SETTINGS = "C:\\Windows\\system32\\config\\systemprofile\\.m2\\settings.xml"
   }
   
   stages {
